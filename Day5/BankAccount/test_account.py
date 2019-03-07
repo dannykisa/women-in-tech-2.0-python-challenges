@@ -4,7 +4,7 @@ from account import BankAccount
 
 
 class BankAccountTest(unittest.TestCase):
-
+         
     def setUp(self):
         self.account = BankAccount()
 
